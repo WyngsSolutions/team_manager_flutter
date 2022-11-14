@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354536517456",
+    "project_id": "testpoc-19b89",
+    "storage_bucket": "testpoc-19b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354536517456:android:d1214077e4cb78f120c655",
+        "android_client_info": {
+          "package_name": "com.kv.teammanager.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354536517456-sepid4pf76qkgt8101ifvi09637vpm65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdr8Y5Fj7i8N8MhPD_skaocnIsYaAdrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354536517456-sepid4pf76qkgt8101ifvi09637vpm65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
